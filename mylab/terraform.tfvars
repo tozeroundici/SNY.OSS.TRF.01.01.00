@@ -1,0 +1,5 @@
+CREDENTIAL_FILE="/vagrant/gcp/project-devops-1199-22541c0fbbfb.json"
+PROJECT_ID="project-devops-1199"
+REGION="us-west1"
+ZONE="a"
+VM_USERNAME="davide_degiulio"
